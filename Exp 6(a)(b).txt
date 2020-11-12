@@ -1,0 +1,50 @@
+http://fcmcvlab.iitkgp.ac.in/Exp6/exp6_VideoDemo.html
+
+
+The theory for this experiment is available on the IIT Kharagpur Virtual Lab, here is the link for that
+
+
+
+http://vlabs.iitkgp.ernet.in/fcmc/
+
+
+
+
+
+
+
+ For Windows:
+
+
+
+
+
+ Step 1:
+
+
+
+We strongly recommend to install JAVA 7 of either 32 bit or 64 bit. Click here to download and install JAVA 7
+
+ Step 2:
+
+
+
+After successful installation of JAVA goto Control Panel and click on JAVA icon then change the security level to minimum.
+
+ Step 3:
+
+
+
+Extract Exp6.rar file.
+
+
+
+To run the experiment 1 double click on Exp6A.jnlp file .
+
+
+
+To run the experiment 2 double click on Exp6B.jnlp file .
+
+
+
+https://www.researchgate.net/publication/3842950_Frequency_reuse_and_coding_for_GPRS_multi-slot_operation
